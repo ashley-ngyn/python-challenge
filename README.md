@@ -23,16 +23,16 @@ Your task is to create a Python script that analyzes the votes and calculates ea
 
 
 list of sources used:
-    01 - lists_solution.py
-    02 - https://docs.python.org/3/library/csv.html
-    03 - write_solution.py
-    04 - cereal_solution.py
-    05 - lists_solution.py
-    07 - https://docs.python.org/3/library/stdtypes.html#range
-    08 - https://www.geeksforgeeks.org/how-to-round-numbers-in-python/
-    09 - https://www.pythontutorial.net/python-basics/python-write-text-file/
-    10 - https://stackoverflow.com/questions/26822336/how-to-add-to-an-already-existing-variable-in-python
-    11 - https://www.knowledgehut.com/blog/programming/python-rounding-numbers
+    - 01: lists_solution.py
+    - 02: https://docs.python.org/3/library/csv.html
+    - 03: write_solution.py
+    - 04: cereal_solution.py
+    - 05: lists_solution.py
+    - 07: https://docs.python.org/3/library/stdtypes.html#range
+    - 08: https://www.geeksforgeeks.org/how-to-round-numbers-in-python/
+    - 09: https://www.pythontutorial.net/python-basics/python-write-text-file/
+    - 10: https://stackoverflow.com/questions/26822336/how-to-add-to-an-already-existing-variable-in-python
+    - 11: https://www.knowledgehut.com/blog/programming/python-rounding-numbers
 
 
     source 01 was used to create empty lists
